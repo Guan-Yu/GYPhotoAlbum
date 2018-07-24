@@ -1,0 +1,17 @@
+
+#Project
+GYPhotoAlbumDemo.xcodeproj/
+!GYPhotoAlbumDemo.xcodeproj/project.pbxproj
+GYPhotoAlbumDemo.xcworkspace/
+*.xcworkspace
+xcuserdata/
+
+#Other
+build/
+*.moved-aside
+*.xcuserstate
+*.xccheckout
+.DS_Store
+
+#CocoaPods
+Pods/
